@@ -1,0 +1,11 @@
+//React imports
+import React from 'react'
+
+//styles
+import './Search.css'
+
+export default function Search() {
+  return (
+    <div>search</div>
+  )
+}
